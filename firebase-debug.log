@@ -1,0 +1,21 @@
+[debug] [2025-05-13T00:14:17.599Z] ----------------------------------------------------------------------
+[debug] [2025-05-13T00:14:17.602Z] Command:       /usr/local/bin/node /Users/daniel.ssantos88/.npm-global/bin/firebase init
+[debug] [2025-05-13T00:14:17.602Z] CLI Version:   14.3.1
+[debug] [2025-05-13T00:14:17.603Z] Platform:      darwin
+[debug] [2025-05-13T00:14:17.603Z] Node Version:  v22.11.0
+[debug] [2025-05-13T00:14:17.603Z] Time:          Mon May 12 2025 21:14:17 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2025-05-13T00:14:17.603Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-05-13T00:14:17.611Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-13T00:14:17.611Z] > authorizing via signed-in user (danielsilvasantos13092000@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/daniel.ssantos88/Documents/fire-fist
+
