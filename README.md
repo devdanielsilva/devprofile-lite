@@ -17,7 +17,7 @@ Este projeto é uma aplicação React integrada com Firebase, permitindo autenti
 
 ### GitHub: https://github.com/devdanielsilva/devprofile-lite
 
-### Projeto Hospedado:
+### Projeto Hospedado no Firebase: https://fire-fist-773ad.web.app/
 
 ---
 
