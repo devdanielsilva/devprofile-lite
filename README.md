@@ -13,6 +13,14 @@ Este projeto é uma aplicação React integrada com Firebase, permitindo autenti
 
 ---
 
+## Links do Github e do Projeto Hospedado
+
+### GitHub: https://github.com/devdanielsilva/devprofile-lite
+
+### Projeto Hospedado:
+
+---
+
 ## 📄 Arquivos e Descrição
 
 ### 1. `Register.jsx` – _Página de Cadastro_
